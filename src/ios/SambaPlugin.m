@@ -1,8 +1,8 @@
-#import "MyCordovaPlugin.h"
+#import "SambaPlugin.h"
 
 #import <Cordova/CDVAvailability.h>
 
-@implementation MyCordovaPlugin
+@implementation SambaPlugin
 
 - (void)pluginInitialize {
 }
